@@ -1,1 +1,1 @@
-# calculator which makes your calculation easier
+# calculator which makes your calculation easier and faster 
